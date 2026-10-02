@@ -1,21 +1,11 @@
 # Simula Metropolitan Center for Digital Engineering
 
-SimulaMet is the **Simula Metropolitan Center for Digital Engineering**, a center of [Simula](https://github.com/simula) — Norway's leading research institute for computer science and engineering.
+SimulaMet is a non-profit research organisation, jointly owned by [Simula Research Laboratory](https://github.com/simula) and [Oslo Metropolitan University](https://www.oslomet.no/).
 
-## About
-
-SimulaMet conducts high-quality research in the fields of:
-
-- **Artificial Intelligence**
-- **Communications Systems**
-- **IT Management**
-
-## Links
+SimulaMet conducts high-quality research in the fields of **Artificial Intelligence**, **Communications Systems**, and **IT Management**.
 
 - **Website:** [simulamet.no](https://www.simulamet.no/)
-- **Simula (parent organization):** [github.com/simula](https://github.com/simula)
-- **Simula website:** [simula.no](https://www.simula.no/)
+- **Simula:** [github.com/simula](https://github.com/simula)
+- **OsloMet:** [oslomet.no](https://www.oslomet.no/)
 
-## Relationship to Simula
-
-SimulaMet is mainly owned by [Simula](https://www.simula.no/). This GitHub organization hosts SimulaMet-specific projects and research code. For Simula-wide projects, see the [simula organization](https://github.com/simula).
+SimulaMet-related repositories are currently hosted in the [simula organization](https://github.com/simula). This organization is reserved for future SimulaMet-specific projects.
