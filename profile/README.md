@@ -4,7 +4,9 @@ SimulaMet is a non-profit research organisation, jointly owned by [Simula Resear
 
 SimulaMet conducts high-quality research in the fields of **Artificial Intelligence**, **Communications Systems**, and **IT Management**.
 
-> **Looking for SimulaMet repositories?** They are currently hosted in the [simula organization](https://github.com/simula). This organization is reserved for future SimulaMet-specific projects.
+> **Looking for repositories?**
+> - HOST department repos: [github.com/simulamet-host](https://github.com/simulamet-host)
+> - Simula-wide repos: [github.com/simula](https://github.com/simula)
 
 - **Website:** [simulamet.no](https://www.simulamet.no/)
 - **Simula:** [github.com/simula](https://github.com/simula)
